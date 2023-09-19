@@ -1,0 +1,37 @@
+@import url("https://fonts.googleapis.com/css2?family=Quicksand&family=Roboto&display=swap");
+
+body {
+    background-color: lightblue;
+    font-family: "Quicksand", sans-serif;
+}
+
+.draggable {
+  width: 90px;
+  height: 90px;
+  padding: 0.5em;
+  float: left;
+  margin: 0 10px 10px 0;
+}
+
+#cool {
+  width: 95%;
+  height: 400px;
+  border: 2px solid #ccc;
+  padding: 10px;
+}
+
+h3,
+label,
+p {
+  background-color: #fff;
+}
+
+h3 {
+  color: black;
+  /*   font-family: "Roboto", sans-serif; */
+  font-family: "Quicksand", sans-serif;
+}
+
+.card {
+  margin-top: 1rem;
+}
