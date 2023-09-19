@@ -1,5 +1,8 @@
+@import url("https://fonts.googleapis.com/css2?family=Quicksand&family=Roboto&display=swap");
+
 body {
     background-color: lightblue;
+    font-family: "Quicksand", sans-serif;
 }
 
 .draggable {
@@ -25,7 +28,8 @@ p {
 
 h3 {
   color: black;
-
+  /*   font-family: "Roboto", sans-serif; */
+  font-family: "Quicksand", sans-serif;
 }
 
 .card {
